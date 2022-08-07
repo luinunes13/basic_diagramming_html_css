@@ -1,0 +1,98 @@
+		table {
+			border: 1px solid #848484;
+		}
+
+		header {
+			font-family: Times new roman, times, serif;
+			font-size: 30px;
+			color: white;
+			text-align: center;
+			background-color: #ea967b;
+			padding: 40px;
+			border: 1px solid #848484;
+		}
+
+		div {
+			width: 100%;
+			border: 1px #848484;
+		}
+
+		td:first-child {
+			border-right: 1px solid #848484;
+		}
+
+		nav ul {
+			list-style-type: none;
+			font-size: 20px;
+			font-style: normal;
+			padding: 39px;
+			margin-top: auto;
+			float: left;
+			display: block;
+		}
+
+		a {
+			font-family: Times new roman, times, serif;
+			font-size: 20px;
+			font-style: normal;
+			color: #8d4f5c;
+			text-decoration: none;
+		}
+
+		a:visited {
+			color: #BE81F7;
+
+		}
+
+		h2 {
+			font-family: Times new roman, times, serif;
+			font-style: normal;
+			color: #364a69;
+			margin-left: 30px;
+			margin-right: 70px;
+			text-align: justify;
+		}
+
+		body {
+			background-color: #bccade;
+			border: 1px solid #848484;
+		}
+
+		footer {
+			border: 1px solid #848484;
+			font-family: Times new roman, times, serif;
+			font-style: normal;
+			color: white;
+			text-align: center;
+			background-color: #ea967b;
+			padding: 20px;
+
+		}
+
+		#myId {
+			font-family: Times new roman, times, serif;
+			font-size: 18px;
+			font-style: normal;
+			color: #364a69;
+			line-height: 1.5;
+			margin-left: 30px;
+			margin-right: 70px;
+			text-align: justify;
+		}
+
+		#image {
+
+			margin-left: 50px;
+			padding-top: 5px;
+			text-align: center;
+		}
+
+		#click {
+			padding-bottom: 25px;
+			text-align: center;
+			font-family: Times new roman, times, serif;
+			font-size: 15px;
+			font-style: normal;
+			color: #364a69;
+			line-height: 1.5;
+		}
